@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-springfield-corp
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: b824d292-e38a-434b-9482-4b0416f76621
   WEBAPP-NAME: az400-webapp-springfield-corp
 
 
